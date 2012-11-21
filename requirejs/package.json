@@ -1,0 +1,9 @@
+{
+	"name": "requirejs-example",
+	"version": "0.0.1",
+	"dependencies": {
+    	"requirejs"   : "2.1.1",
+    	"resourceful" : "0.3.3",
+    	"express"     : "3.0.3"
+	}
+}
